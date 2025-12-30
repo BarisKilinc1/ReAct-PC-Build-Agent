@@ -1,0 +1,62 @@
+
+[
+    
+    {"id": 1, "kategori": "Genel Bilgi", "soru": "DLSS teknolojisi nedir ve ne işe yarar?"},
+    {"id": 2, "kategori": "Genel Bilgi", "soru": "İşlemciye termal macun sürmezsem ne olur?"},
+    {"id": 3, "kategori": "Genel Bilgi", "soru": "M.2 NVMe SSD ile SATA SSD arasındaki temel fark nedir?"},
+    {"id": 4, "kategori": "Genel Bilgi", "soru": "RAM'lerdeki CL değeri (Gecikme) düşük mü olmalı yüksek mi?"},
+    {"id": 5, "kategori": "Genel Bilgi", "soru": "Sıvı soğutma mı yoksa hava soğutma mı daha güvenlidir?"},
+    {"id": 6, "kategori": "Genel Bilgi", "soru": "Bir monitörde IPS panel mi yoksa TN panel mi daha iyi renk verir?"},
+    {"id": 7, "kategori": "Genel Bilgi", "soru": "Overclock (Hız aşırtma) garantiyi bozar mı?"},
+    {"id": 8, "kategori": "Genel Bilgi", "soru": "Modüler PSU ile modüler olmayan PSU arasındaki fark nedir?"},
+    {"id": 9, "kategori": "Genel Bilgi", "soru": "BIOS güncellemesi yapmak performansı artırır mı?"},
+    {"id": 10, "kategori": "Genel Bilgi", "soru": "Ekran kartında Ray Tracing (Işın İzleme) ne demektir?"},
+    
+
+    {"id": 11, "kategori": "Mantık - Uyum", "soru": "Micro-ATX bir anakart, ATX boyutundaki bir kasaya takılabilir mi?"},
+    {"id": 12, "kategori": "Mantık - Uyum", "soru": "DDR4 RAM'i DDR5 slotuna zorlayarak takabilir miyim?"},
+    {"id": 13, "kategori": "Mantık - Uyum", "soru": "PCIe 4.0 ekran kartı, PCIe 3.0 anakartta çalışır mı?"},
+    {"id": 14, "kategori": "Mantık - Darboğaz", "soru": "Çok güçlü bir ekran kartı ile çok zayıf bir işlemci kullanırsam ne olur?"},
+    {"id": 15, "kategori": "Mantık - Soğutma", "soru": "Kasa fanlarının hepsi içeri üflerse hava akışı nasıl olur?"},
+    {"id": 16, "kategori": "Mantık - Görüntü", "soru": "60Hz monitörde oyun 200 FPS verirse ne olur, akıcılık artar mı?"},
+    {"id": 17, "kategori": "Mantık - Güç", "soru": "80 Plus Gold sertifikası PSU'nun daha fazla elektrik ürettiğini mi gösterir?"},
+    {"id": 18, "kategori": "Mantık - Bağlantı", "soru": "DisplayPort kablosu ses iletir mi?"},
+    {"id": 19, "kategori": "Mantık - RAM", "soru": "Bilgisayara 3 tane RAM takarsam Dual Channel çalışır mı?"},
+    {"id": 20, "kategori": "Mantık - Depolama", "soru": "Hard disk (HDD) oyun yükleme sürelerini SSD'ye göre nasıl etkiler?"},
+
+
+    {"id": 21, "kategori": "Senaryo", "soru": "Sadece League of Legends oynayacağım, harici ekran kartı şart mı yoksa APU yeter mi?"},
+    {"id": 22, "kategori": "Senaryo", "soru": "Yayıncı (Streamer) olmak istiyorum, işlemci mi daha önemli ekran kartı mı?"},
+    {"id": 23, "kategori": "Senaryo", "soru": "Video kurgu (Render) için en az kaç GB RAM önerirsin?"},
+    {"id": 24, "kategori": "Senaryo", "soru": "RGB ışıklandırma bilgisayarın performansını (FPS) artırır mı?"},
+    {"id": 25, "kategori": "Senaryo", "soru": "İkinci el ekran kartı alırken 'Mining' yapılıp yapılmadığı neden önemlidir?"},
+    {"id": 26, "kategori": "Senaryo", "soru": "Laptop işlemcisi sökülüp masaüstü bilgisayara takılır mı?"},
+    {"id": 27, "kategori": "Senaryo", "soru": "Bilgisayar açılırken anakarttan 'bip' sesleri gelmesi ne anlama gelir?"},
+    {"id": 28, "kategori": "Senaryo", "soru": "Server (Sunucu) RAM'i normal ev bilgisayarında çalışır mı?"},
+    {"id": 29, "kategori": "Senaryo", "soru": "Windows 11 kurmak için TPM 2.0 şart mı?"},
+    {"id": 30, "kategori": "Senaryo", "soru": "Ekran kartım çok ısınıyor, yan kapağı açmak mantıklı mı?"},
+
+
+    {"id": 31, "kategori": "Eski Nesil", "soru": "Nvidia GTX 1080 Ti ekran kartı günümüz oyunları için hala yeterli mi?"},
+    {"id": 32, "kategori": "Eski Nesil", "soru": "Intel i7-4790K işlemcisi DDR4 RAM destekler mi?"},
+    {"id": 33, "kategori": "Eski Nesil", "soru": "AMD FX serisi işlemciler çok ısınıyor muydu?"},
+    {"id": 34, "kategori": "Eski Nesil", "soru": "AGP slotlu ekran kartımı yeni anakarta takabilir miyim?"},
+    {"id": 35, "kategori": "Eski Nesil", "soru": "IDE kablosu ile SATA kablosu aynı mıdır?"},
+    {"id": 36, "kategori": "Eski Nesil", "soru": "Windows XP hala güvenli bir işletim sistemi mi?"},
+    {"id": 37, "kategori": "Eski Nesil", "soru": "Floppy disk sürücüsü yeni kasalara takılır mı?"},
+    {"id": 38, "kategori": "Eski Nesil", "soru": "SLI veya Crossfire yapmak 2025 yılında mantıklı mı?"},
+    {"id": 39, "kategori": "Eski Nesil", "soru": "Voodoo ekran kartları hala üretiliyor mu?"},
+    {"id": 40, "kategori": "Eski Nesil", "soru": "Tüplü (CRT) monitörlerin LCD'ye göre avantajı var mıydı?"},
+
+    {"id": 41, "kategori": "Alakasız", "soru": "iPhone 15 Pro Max kamerasının diyafram açıklığı nedir?"},
+    {"id": 42, "kategori": "Alakasız", "soru": "PlayStation 5 Slim ile Xbox Series X arasındaki fark nedir?"},
+    {"id": 43, "kategori": "Alakasız", "soru": "Samsung Galaxy S24 Ultra işlemcisi Snapdragon mu Exynos mu?"},
+    {"id": 44, "kategori": "Alakasız", "soru": "Tesla Model Y'nin menzili kaç kilometredir?"},
+    {"id": 45, "kategori": "Alakasız", "soru": "Makarna en iyi kaç dakikada haşlanır?"},
+    {"id": 46, "kategori": "Alakasız", "soru": "Dyson V15 süpürgenin emiş gücü kaç AW?"},
+    {"id": 47, "kategori": "Alakasız", "soru": "Nintendo Switch OLED modelinin ekran boyutu nedir?"},
+    {"id": 48, "kategori": "Alakasız", "soru": "Türkiye'nin başkenti neresidir?"},
+    {"id": 49, "kategori": "Alakasız", "soru": "Kahve makinesinin kireci nasıl temizlenir?"},
+    {"id": 50, "kategori": "Alakasız", "soru": "Klima alırken BTU hesabı nasıl yapılır?"}
+]
+

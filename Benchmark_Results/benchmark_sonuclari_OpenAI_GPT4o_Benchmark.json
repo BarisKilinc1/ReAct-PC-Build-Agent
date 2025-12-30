@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "kategori": "Genel Bilgi",
+        "soru": "DLSS teknolojisi nedir ve ne işe yarar?",
+        "model_cevabi": "Kaynak: Genel Bilgi. DLSS (Deep Learning Super Sampling), NVIDIA tarafından geliştirilen bir görüntü yükseltme teknolojisidir. Yapay zeka ve derin öğrenme kullanarak, daha düşük çözünürlükte render edilen görüntüleri daha yüksek çözünürlüklere ölçeklendirir. Bu sayede, oyunlarda daha yüksek kare hızları elde edilirken, görüntü kalitesi de korunur.",
+        "sure_sn": 4.27,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 2,
+        "kategori": "Genel Bilgi",
+        "soru": "İşlemciye termal macun sürmezsem ne olur?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Termal macun sürülmezse, işlemci yeterince soğutulamaz ve aşırı ısınma riski artar. Bu da performans düşüşüne ve donanım hasarına yol açabilir.",
+        "sure_sn": 3.36,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 3,
+        "kategori": "Genel Bilgi",
+        "soru": "M.2 NVMe SSD ile SATA SSD arasındaki temel fark nedir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. M.2 NVMe SSD'ler, PCIe veri yolunu kullanarak daha yüksek veri transfer hızları sunar ve genellikle daha hızlıdır. SATA SSD'ler ise SATA veri yolunu kullanır ve bu nedenle daha düşük hızlara sahiptir. M.2 NVMe SSD'ler genellikle daha kompakt bir form faktörüne sahiptir ve doğrudan anakarta takılabilir.",
+        "sure_sn": 4.7,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 4,
+        "kategori": "Genel Bilgi",
+        "soru": "RAM'lerdeki CL değeri (Gecikme) düşük mü olmalı yüksek mi?",
+        "model_cevabi": "RAM'lerdeki CL (CAS Latency) değeri düşük olmalıdır. Düşük CL değeri, RAM'in veriye daha hızlı erişmesini sağlar ve bu da genel sistem performansını artırır.",
+        "sure_sn": 1.65,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 5,
+        "kategori": "Genel Bilgi",
+        "soru": "Sıvı soğutma mı yoksa hava soğutma mı daha güvenlidir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Hava soğutma sistemleri genellikle daha basit ve daha az hareketli parça içerdiği için uzun vadede daha güvenilir kabul edilir. Sıvı soğutma sistemleri ise daha iyi soğutma performansı sunabilir ancak sızıntı riski ve pompa arızası gibi potansiyel sorunlar nedeniyle daha dikkatli bir kurulum ve bakım gerektirir.",
+        "sure_sn": 4.95,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 6,
+        "kategori": "Genel Bilgi",
+        "soru": "Bir monitörde IPS panel mi yoksa TN panel mi daha iyi renk verir?",
+        "model_cevabi": "IPS panel, TN panele göre daha iyi renk verir.",
+        "sure_sn": 2.34,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 7,
+        "kategori": "Genel Bilgi",
+        "soru": "Overclock (Hız aşırtma) garantiyi bozar mı?",
+        "model_cevabi": "Evet, genellikle overclock (hız aşırtma) işlemi donanım bileşenlerinin garanti kapsamını bozabilir. Üreticiler, donanımın fabrika ayarları dışında çalıştırılmasını garanti kapsamı dışında tutabilir.",
+        "sure_sn": 2.4,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 8,
+        "kategori": "Genel Bilgi",
+        "soru": "Modüler PSU ile modüler olmayan PSU arasındaki fark nedir?",
+        "model_cevabi": "Modüler PSU'lar, kabloların çıkarılabilir olduğu, modüler olmayanlar ise sabit kablolu güç kaynaklarıdır.",
+        "sure_sn": 4.57,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 9,
+        "kategori": "Genel Bilgi",
+        "soru": "BIOS güncellemesi yapmak performansı artırır mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. BIOS güncellemesi, sistem kararlılığı ve uyumluluğu artırabilir, ancak her zaman performans artışı sağlamaz.",
+        "sure_sn": 3.41,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 10,
+        "kategori": "Genel Bilgi",
+        "soru": "Ekran kartında Ray Tracing (Işın İzleme) ne demektir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Ray Tracing (Işın İzleme), grafiklerde ışığın gerçekçi bir şekilde simüle edilmesini sağlayan bir teknolojidir. Bu teknoloji, ışığın nesnelerle etkileşimini ve yansımalarını daha doğru bir şekilde hesaplayarak daha gerçekçi görüntüler oluşturur. Özellikle oyunlarda ve grafik uygulamalarında kullanılır.",
+        "sure_sn": 3.24,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 11,
+        "kategori": "Mantık - Uyum",
+        "soru": "Micro-ATX bir anakart, ATX boyutundaki bir kasaya takılabilir mi?",
+        "model_cevabi": "Evet, Micro-ATX bir anakart, ATX boyutundaki bir kasaya takılabilir.",
+        "sure_sn": 2.07,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 12,
+        "kategori": "Mantık - Uyum",
+        "soru": "DDR4 RAM'i DDR5 slotuna zorlayarak takabilir miyim?",
+        "model_cevabi": "Kaynak: Genel Bilgi. DDR4 RAM, DDR5 slotuna uymaz ve zorlanarak takılmamalıdır.",
+        "sure_sn": 2.09,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 13,
+        "kategori": "Mantık - Uyum",
+        "soru": "PCIe 4.0 ekran kartı, PCIe 3.0 anakartta çalışır mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Evet, PCIe 4.0 ekran kartı, PCIe 3.0 anakartta çalışır. Ancak, ekran kartı PCIe 4.0 hız avantajlarından yararlanamaz ve PCIe 3.0 hızında çalışır.",
+        "sure_sn": 1.81,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 14,
+        "kategori": "Mantık - Darboğaz",
+        "soru": "Çok güçlü bir ekran kartı ile çok zayıf bir işlemci kullanırsam ne olur?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Güçlü bir ekran kartı ile zayıf bir işlemci kullanmak, işlemcinin ekran kartını besleyememesi nedeniyle performans kaybına yol açabilir. Bu durum, oyunlarda ve grafik yoğun uygulamalarda düşük FPS ve gecikmelere neden olabilir.",
+        "sure_sn": 3.45,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 15,
+        "kategori": "Mantık - Soğutma",
+        "soru": "Kasa fanlarının hepsi içeri üflerse hava akışı nasıl olur?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Kasa fanlarının hepsi içeri üflerse, kasa içinde pozitif basınç oluşur. Bu durum, sıcak havanın kasadan etkili bir şekilde dışarı atılmasını engelleyebilir ve kasa içindeki sıcaklık artabilir. İdeal hava akışı için bazı fanların dışarı üflemesi, sıcak havanın kasadan atılmasına yardımcı olur.",
+        "sure_sn": 4.51,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 16,
+        "kategori": "Mantık - Görüntü",
+        "soru": "60Hz monitörde oyun 200 FPS verirse ne olur, akıcılık artar mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. 60Hz monitörde 200 FPS almak, monitörün sadece 60 FPS gösterebilmesi nedeniyle akıcılığı artırmaz. Fazladan üretilen kareler monitörde gösterilemez. Ancak, daha düşük gecikme süresi ve daha hızlı tepki süresi gibi avantajlar sağlayabilir.",
+        "sure_sn": 6.45,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 17,
+        "kategori": "Mantık - Güç",
+        "soru": "80 Plus Gold sertifikası PSU'nun daha fazla elektrik ürettiğini mi gösterir?",
+        "model_cevabi": "80 Plus Gold sertifikası, PSU'nun enerji verimliliğini gösterir, daha fazla elektrik üretimini değil.",
+        "sure_sn": 4.1,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 18,
+        "kategori": "Mantık - Bağlantı",
+        "soru": "DisplayPort kablosu ses iletir mi?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Evet, DisplayPort kablosu ses iletebilir.",
+        "sure_sn": 5.61,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 19,
+        "kategori": "Mantık - RAM",
+        "soru": "Bilgisayara 3 tane RAM takarsam Dual Channel çalışır mı?",
+        "model_cevabi": "3 RAM ile Dual Channel çalışmaz, Single Channel çalışır.",
+        "sure_sn": 2.27,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 20,
+        "kategori": "Mantık - Depolama",
+        "soru": "Hard disk (HDD) oyun yükleme sürelerini SSD'ye göre nasıl etkiler?",
+        "model_cevabi": "Kaynak: Genel Bilgi. HDD'ler, SSD'lere göre daha yavaş veri okuma ve yazma hızlarına sahiptir. Bu nedenle, oyun yükleme süreleri HDD kullanıldığında SSD'ye göre daha uzun olur. SSD'ler, daha hızlı veri erişimi sağladığı için oyunların daha hızlı yüklenmesine olanak tanır.",
+        "sure_sn": 3.63,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 21,
+        "kategori": "Senaryo",
+        "soru": "Sadece League of Legends oynayacağım, harici ekran kartı şart mı yoksa APU yeter mi?",
+        "model_cevabi": "Kaynak: Genel Bilgi. League of Legends oynamak için harici bir ekran kartı şart değildir; iyi bir APU genellikle yeterlidir.",
+        "sure_sn": 3.11,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 22,
+        "kategori": "Senaryo",
+        "soru": "Yayıncı (Streamer) olmak istiyorum, işlemci mi daha önemli ekran kartı mı?",
+        "model_cevabi": "Yayıncılar için işlemci genellikle daha önemlidir çünkü video kodlama işlemleri işlemci tarafından gerçekleştirilir. Ancak, oyun performansı için ekran kartı da önemlidir.",
+        "sure_sn": 3.79,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 23,
+        "kategori": "Senaryo",
+        "soru": "Video kurgu (Render) için en az kaç GB RAM önerirsin?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Video kurgu ve render işlemleri için en az 16 GB RAM önerilir. Ancak daha yüksek performans ve verimlilik için 32 GB veya daha fazla RAM tercih edilmesi daha iyi sonuçlar verebilir.",
+        "sure_sn": 2.01,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 24,
+        "kategori": "Senaryo",
+        "soru": "RGB ışıklandırma bilgisayarın performansını (FPS) artırır mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. RGB ışıklandırma, bilgisayarın performansını veya FPS'yi artırmaz. RGB ışıklandırma sadece estetik bir özelliktir ve performansa doğrudan bir etkisi yoktur.",
+        "sure_sn": 2.33,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 25,
+        "kategori": "Senaryo",
+        "soru": "İkinci el ekran kartı alırken 'Mining' yapılıp yapılmadığı neden önemlidir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Mining yapılan ekran kartları genellikle uzun süre yüksek yük altında çalıştıkları için daha fazla aşınma ve yıpranma gösterebilir. Bu da kartın ömrünü kısaltabilir ve performansını düşürebilir. Bu nedenle, ikinci el ekran kartı alırken mining geçmişi olup olmadığını kontrol etmek önemlidir.",
+        "sure_sn": 3.02,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 26,
+        "kategori": "Senaryo",
+        "soru": "Laptop işlemcisi sökülüp masaüstü bilgisayara takılır mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Laptop işlemcileri genellikle masaüstü anakartlarla uyumlu değildir çünkü farklı soket yapısına ve fiziksel boyutlara sahiptirler. Ayrıca, laptop işlemcileri genellikle anakarta lehimlidir ve çıkarılması zordur.",
+        "sure_sn": 2.85,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 27,
+        "kategori": "Senaryo",
+        "soru": "Bilgisayar açılırken anakarttan 'bip' sesleri gelmesi ne anlama gelir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Anakarttan gelen 'bip' sesleri, genellikle donanım hatalarını veya sistem sorunlarını belirtir ve BIOS tarafından üretilir. Her üretici için bu seslerin anlamı farklı olabilir.",
+        "sure_sn": 4.25,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 28,
+        "kategori": "Senaryo",
+        "soru": "Server (Sunucu) RAM'i normal ev bilgisayarında çalışır mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Server RAM'leri, ECC özelliği nedeniyle normal ev bilgisayarlarında her zaman çalışmayabilir. Ev bilgisayarları genellikle ECC RAM desteğine sahip değildir.",
+        "sure_sn": 3.06,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 29,
+        "kategori": "Senaryo",
+        "soru": "Windows 11 kurmak için TPM 2.0 şart mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Evet, Windows 11 kurmak için resmi olarak TPM 2.0 gereklidir. Ancak, bazı kullanıcılar bu gereksinimi atlamak için çeşitli yöntemler kullanabiliyor.",
+        "sure_sn": 2.92,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 30,
+        "kategori": "Senaryo",
+        "soru": "Ekran kartım çok ısınıyor, yan kapağı açmak mantıklı mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Yan kapağı açmak, hava akışını bozabileceği için uzun vadede önerilmez, ancak geçici olarak sıcaklığı düşürebilir.",
+        "sure_sn": 3.91,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 31,
+        "kategori": "Eski Nesil",
+        "soru": "Nvidia GTX 1080 Ti ekran kartı günümüz oyunları için hala yeterli mi?",
+        "model_cevabi": "Cevap bulunamadı (Döngü Limiti).",
+        "sure_sn": 4.9,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 32,
+        "kategori": "Eski Nesil",
+        "soru": "Intel i7-4790K işlemcisi DDR4 RAM destekler mi?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Intel i7-4790K işlemcisi DDR4 RAM desteklemez, sadece DDR3 RAM desteği vardır.",
+        "sure_sn": 2.69,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 33,
+        "kategori": "Eski Nesil",
+        "soru": "AMD FX serisi işlemciler çok ısınıyor muydu?",
+        "model_cevabi": "Kaynak: Genel Bilgi. AMD FX serisi işlemciler, özellikle yüksek TDP değerleri ve eski üretim teknolojileri nedeniyle genellikle yüksek ısı üretimi ile bilinirlerdi. Bu nedenle, iyi bir soğutma çözümü gerektirirlerdi.",
+        "sure_sn": 4.58,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 34,
+        "kategori": "Eski Nesil",
+        "soru": "AGP slotlu ekran kartımı yeni anakarta takabilir miyim?",
+        "model_cevabi": "Kaynak: Genel Bilgi. AGP slotlu ekran kartınızı yeni bir anakarta takamazsınız çünkü modern anakartlar genellikle PCIe slotları kullanır ve AGP slotu bulunmaz.",
+        "sure_sn": 2.69,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 35,
+        "kategori": "Eski Nesil",
+        "soru": "IDE kablosu ile SATA kablosu aynı mıdır?",
+        "model_cevabi": "Kaynak: Genel Bilgi. IDE kablosu ve SATA kablosu aynı değildir; farklı veri iletim standartlarıdır.",
+        "sure_sn": 2.02,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 36,
+        "kategori": "Eski Nesil",
+        "soru": "Windows XP hala güvenli bir işletim sistemi mi?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Windows XP, Microsoft tarafından 2014 yılında resmi olarak desteklenmeyi durdurdu. Bu nedenle, güvenlik güncellemeleri ve yamaları almıyor. Güncel tehditlere karşı savunmasız olduğu için güvenli bir işletim sistemi olarak kabul edilmez.",
+        "sure_sn": 2.46,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 37,
+        "kategori": "Eski Nesil",
+        "soru": "Floppy disk sürücüsü yeni kasalara takılır mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Floppy disk sürücüleri yeni kasalara doğrudan takılamayabilir, ancak adaptör veya özel yuvalar ile uyum sağlanabilir.",
+        "sure_sn": 3.87,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 38,
+        "kategori": "Eski Nesil",
+        "soru": "SLI veya Crossfire yapmak 2025 yılında mantıklı mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. 2025 yılında SLI veya Crossfire yapmak genellikle mantıklı değildir çünkü yazılım desteği azalmıştır ve tek bir güçlü GPU kullanmak daha verimli bir çözümdür.",
+        "sure_sn": 4.88,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 39,
+        "kategori": "Eski Nesil",
+        "soru": "Voodoo ekran kartları hala üretiliyor mu?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Voodoo ekran kartları artık üretilmiyor.",
+        "sure_sn": 4.04,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 40,
+        "kategori": "Eski Nesil",
+        "soru": "Tüplü (CRT) monitörlerin LCD'ye göre avantajı var mıydı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. CRT monitörler, LCD'lere göre daha iyi renk doğruluğu ve daha hızlı tepki süreleri sunabilir. Ayrıca, farklı çözünürlüklerde görüntü kalitesini koruma konusunda daha esnektirler. Ancak, boyutları ve enerji tüketimleri nedeniyle LCD'ler genellikle tercih edilmektedir.",
+        "sure_sn": 2.63,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 41,
+        "kategori": "Alakasız",
+        "soru": "iPhone 15 Pro Max kamerasının diyafram açıklığı nedir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. iPhone 15 Pro Max'in ana kamerasının diyafram açıklığı genellikle f/1.78 civarındadır.",
+        "sure_sn": 8.77,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 42,
+        "kategori": "Alakasız",
+        "soru": "PlayStation 5 Slim ile Xbox Series X arasındaki fark nedir?",
+        "model_cevabi": "Cevap bulunamadı (Döngü Limiti).",
+        "sure_sn": 7.58,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 43,
+        "kategori": "Alakasız",
+        "soru": "Samsung Galaxy S24 Ultra işlemcisi Snapdragon mu Exynos mu?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Samsung Galaxy S24 Ultra, genellikle Snapdragon ve Exynos işlemci seçenekleriyle gelir. Hangi işlemcinin kullanılacağı, genellikle bölgeye bağlıdır. Örneğin, ABD'de Snapdragon, Avrupa'da ise Exynos tercih edilebilir.",
+        "sure_sn": 2.98,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 44,
+        "kategori": "Alakasız",
+        "soru": "Tesla Model Y'nin menzili kaç kilometredir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Tesla Model Y'nin menzili, modeline bağlı olarak yaklaşık 370 km ile 540 km arasında değişmektedir.",
+        "sure_sn": 3.12,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 45,
+        "kategori": "Alakasız",
+        "soru": "Makarna en iyi kaç dakikada haşlanır?",
+        "model_cevabi": "Makarna genellikle 8-12 dakika arasında haşlanır.",
+        "sure_sn": 1.17,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 46,
+        "kategori": "Alakasız",
+        "soru": "Dyson V15 süpürgenin emiş gücü kaç AW?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Dyson V15 süpürgenin emiş gücü yaklaşık 230 AW'dir.",
+        "sure_sn": 2.34,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 47,
+        "kategori": "Alakasız",
+        "soru": "Nintendo Switch OLED modelinin ekran boyutu nedir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Nintendo Switch OLED modelinin ekran boyutu 7 inçtir.",
+        "sure_sn": 2.19,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 48,
+        "kategori": "Alakasız",
+        "soru": "Türkiye'nin başkenti neresidir?",
+        "model_cevabi": "Ankara, Türkiye'nin başkentidir.",
+        "sure_sn": 0.78,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 49,
+        "kategori": "Alakasız",
+        "soru": "Kahve makinesinin kireci nasıl temizlenir?",
+        "model_cevabi": "Kahve makinesinin kirecini temizlemek için genellikle şu adımlar izlenir: 1) Makinenin su haznesine eşit miktarda su ve beyaz sirke karışımı ekleyin. 2) Makineyi çalıştırarak bu karışımı bir döngü boyunca geçirin. 3) Makineyi kapatın ve karışımın 15-30 dakika beklemesine izin verin. 4) Su haznesini boşaltın ve temiz su ile birkaç kez durulayarak sirke kokusunu ve kalıntılarını giderin. 5) Son olarak, makineyi birkaç kez sadece su ile çalıştırarak tamamen temizlenmesini sağlayın.",
+        "sure_sn": 4.29,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    },
+    {
+        "id": 50,
+        "kategori": "Alakasız",
+        "soru": "Klima alırken BTU hesabı nasıl yapılır?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Klima BTU hesabı, odanın metrekaresine göre her metrekare için 500-600 BTU olarak hesaplanır.",
+        "sure_sn": 7.91,
+        "model_adi": "OpenAI_GPT4o_Benchmark"
+    }
+]

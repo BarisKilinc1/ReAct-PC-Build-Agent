@@ -1,0 +1,426 @@
+[
+    {
+        "id": 1,
+        "kategori": "Genel Bilgi",
+        "soru": "DLSS teknolojisi nedir ve ne işe yarar?",
+        "model_cevabi": "Kaynak: Genel Bilgi. DLSS teknolojisi, NVIDIA'nın geliştirdiği bir yapay zeka tabanlı görüntü işleme yöntemidir. Düşük çözünürlükte render edilen görüntüleri yüksek çözünürlüğe dönüştürmek için derin öğrenme algoritmalarını kullanır ve böylece oyunlarda ve diğer grafik yoğun uygulamalarda performans artışı sağlar.",
+        "sure_sn": 1.89,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 2,
+        "kategori": "Genel Bilgi",
+        "soru": "İşlemciye termal macun sürmezsem ne olur?",
+        "model_cevabi": "Kaynak: Genel Bilgi. İşlemciye termal macun sürmemek, işlemcinin aşırı ısınmasına ve performansının düşmesine neden olabilir.",
+        "sure_sn": 1.81,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 3,
+        "kategori": "Genel Bilgi",
+        "soru": "M.2 NVMe SSD ile SATA SSD arasındaki temel fark nedir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. M.2 NVMe SSD ile SATA SSD arasındaki temel fark, bağlantı arayüzü ve veri transfer hızlarıdır. M.2 NVMe SSD'ler, PCIe arayüzünü kullanarak çok daha yüksek veri transfer hızlarına ulaşabilirken, SATA SSD'ler SATA arayüzünü kullanarak daha düşük hızlarda çalışırlar. Genellikle, M.2 NVMe SSD'ler 3000-7000 MB/s gibi hızlara ulaşabilirken, SATA SSD'ler 500-600 MB/s hızlarına ulaşabilirler.",
+        "sure_sn": 1.93,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 4,
+        "kategori": "Genel Bilgi",
+        "soru": "RAM'lerdeki CL değeri (Gecikme) düşük mü olmalı yüksek mi?",
+        "model_cevabi": "Kaynak: Genel Bilgi. RAM'lerdeki CL değeri düşük olmalıdır.",
+        "sure_sn": 1.31,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 5,
+        "kategori": "Genel Bilgi",
+        "soru": "Sıvı soğutma mı yoksa hava soğutma mı daha güvenlidir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Sıvı soğutma ve hava soğutma arasındaki seçim, sistem gereksinimlerine ve kullanıcı tercihlerine bağlıdır. Hava soğutma daha basit ve daha az riskliyken, sıvı soğutma daha yüksek performanslı sistemler için daha etkili olabilir.",
+        "sure_sn": 2.03,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 6,
+        "kategori": "Genel Bilgi",
+        "soru": "Bir monitörde IPS panel mi yoksa TN panel mi daha iyi renk verir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. IPS paneller TN panellere göre daha iyi renk verir.",
+        "sure_sn": 4.12,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 7,
+        "kategori": "Genel Bilgi",
+        "soru": "Overclock (Hız aşırtma) garantiyi bozar mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Overclock (hız aşırtma) genellikle donanım üreticilerinin garanti koşullarını bozar.",
+        "sure_sn": 1.77,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 8,
+        "kategori": "Genel Bilgi",
+        "soru": "Modüler PSU ile modüler olmayan PSU arasındaki fark nedir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Modüler PSU ile modüler olmayan PSU arasındaki fark, kabloların sistem içine nasıl bağlandığıyla ilgilidir. Modüler PSU'ler, yalnızca ihtiyaç duyulan kabloların sistem içine bağlanmasına izin verir, bu da kablo yönetimi daha kolay ve temiz bir iç mekan sağlar. Modüler olmayan PSU'ler ise, tüm kabloların sabitlendiği ve sistem içine tüm kabloların bağlanması gerektiği anlamına gelir. Bu, kablo yönetimi daha zor ve iç mekanın daha dağınık olmasına neden olabilir.",
+        "sure_sn": 3.09,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 9,
+        "kategori": "Genel Bilgi",
+        "soru": "BIOS güncellemesi yapmak performansı artırır mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. BIOS güncellemesi genellikle sistem stabilitesini ve uyumluluğunu artırır, ancak doğrudan performans artışı sağlamayabilir.",
+        "sure_sn": 1.5,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 10,
+        "kategori": "Genel Bilgi",
+        "soru": "Ekran kartında Ray Tracing (Işın İzleme) ne demektir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Ray Tracing (Işın İzleme), gerçekçi aydınlatma ve görselleri oluşturmak için kullanılan bir teknolojidir. Bu teknoloji, sahnedeki nesnelerin nasıl aydınlatılacağını ve gölgelendirileceğini hesaplayarak daha gerçekçi bir görüntü oluşturur.",
+        "sure_sn": 4.48,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 11,
+        "kategori": "Mantık - Uyum",
+        "soru": "Micro-ATX bir anakart, ATX boyutundaki bir kasaya takılabilir mi?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Evet, Micro-ATX bir anakart, ATX boyutundaki bir kasaya takılabilir.",
+        "sure_sn": 5.66,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 12,
+        "kategori": "Mantık - Uyum",
+        "soru": "DDR4 RAM'i DDR5 slotuna zorlayarak takabilir miyim?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Hayır, DDR4 RAM'i DDR5 slotuna zorlayarak takamazsınız. Fiziksel ve teknik uyumsuzluklar nedeniyle bu mümkün değildir.",
+        "sure_sn": 9.95,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 13,
+        "kategori": "Mantık - Uyum",
+        "soru": "PCIe 4.0 ekran kartı, PCIe 3.0 anakartta çalışır mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. PCIe 4.0 ekran kartı, PCIe 3.0 anakartta çalışır ancak yalnızca PCIe 3.0 hızında çalışacaktır.",
+        "sure_sn": 13.33,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 14,
+        "kategori": "Mantık - Darboğaz",
+        "soru": "Çok güçlü bir ekran kartı ile çok zayıf bir işlemci kullanırsam ne olur?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Sistem performansı, en zayıf bileşen tarafından sınırlanır. Bu nedenle, güçlü bir ekran kartıyla zayıf bir işlemci kullanmak, ekran kartının yüksek performansını tam olarak kullanamayabileceğiniz anlamına gelir.",
+        "sure_sn": 10.41,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 15,
+        "kategori": "Mantık - Soğutma",
+        "soru": "Kasa fanlarının hepsi içeri üflerse hava akışı nasıl olur?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Kasa fanlarının hepsi içeri üflemesi, kasanın içindeki hava basıncını artırabilir ve soğutma performansını olumsuz etkileyebilir.",
+        "sure_sn": 5.81,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 16,
+        "kategori": "Mantık - Görüntü",
+        "soru": "60Hz monitörde oyun 200 FPS verirse ne olur, akıcılık artar mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. 60Hz monitörde oyun 200 FPS verirse, akıcılık artmaz. Çünkü monitör sadece 60 kareyi gösterebiliyor ve fazla kareler boşa gidecektir.",
+        "sure_sn": 6.12,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 17,
+        "kategori": "Mantık - Güç",
+        "soru": "80 Plus Gold sertifikası PSU'nun daha fazla elektrik ürettiğini mi gösterir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. 80 Plus Gold sertifikası, PSU'nun daha fazla elektrik ürettiğini göstermez, bunun yerine PSU'nun verimliliğini belirtir.",
+        "sure_sn": 6.69,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 18,
+        "kategori": "Mantık - Bağlantı",
+        "soru": "DisplayPort kablosu ses iletir mi?",
+        "model_cevabi": "Kaynak: Genel Bilgi. DisplayPort kablosu ses iletimi destekler.",
+        "sure_sn": 9.09,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 19,
+        "kategori": "Mantık - RAM",
+        "soru": "Bilgisayara 3 tane RAM takarsam Dual Channel çalışır mı?",
+        "model_cevabi": "Cevap bulunamadı (Döngü Limiti).",
+        "sure_sn": 26.36,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 20,
+        "kategori": "Mantık - Depolama",
+        "soru": "Hard disk (HDD) oyun yükleme sürelerini SSD'ye göre nasıl etkiler?",
+        "model_cevabi": "Kaynak: Genel Bilgi. HDD'ler, oyun yükleme sürelerini SSD'lere göre daha yavaş etkiler. SSD'ler daha hızlı veri okuma ve yazma hızlarına sahiptir, bu nedenle oyunları daha hızlı yükler.",
+        "sure_sn": 6.18,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 21,
+        "kategori": "Senaryo",
+        "soru": "Sadece League of Legends oynayacağım, harici ekran kartı şart mı yoksa APU yeter mi?",
+        "model_cevabi": "Kaynak: Genel Bilgi. League of Legends oynayabilmek için güçlü bir işlemci ve yeterli bellek önemlidir. APU yeterli olabilir ancak harici ekran kartı daha iyi performans sağlar.",
+        "sure_sn": 20.54,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 22,
+        "kategori": "Senaryo",
+        "soru": "Yayıncı (Streamer) olmak istiyorum, işlemci mi daha önemli ekran kartı mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Yayıncı olmak isteyen biri için hem işlemci hem de ekran kartı önemlidir, ancak öncelikli olarak hangi tür içerik yayınlayacağına bağlı olarak değişebilir.",
+        "sure_sn": 16.75,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 23,
+        "kategori": "Senaryo",
+        "soru": "Video kurgu (Render) için en az kaç GB RAM önerirsin?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Video kurgu için en az 16 GB RAM önerilir, ancak 32 GB veya daha fazla RAM daha iyi performans sağlar.",
+        "sure_sn": 9.25,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 24,
+        "kategori": "Senaryo",
+        "soru": "RGB ışıklandırma bilgisayarın performansını (FPS) artırır mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. RGB ışıklandırma, bilgisayarın performansını (FPS) artırmaz.",
+        "sure_sn": 5.42,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 25,
+        "kategori": "Senaryo",
+        "soru": "İkinci el ekran kartı alırken 'Mining' yapılıp yapılmadığı neden önemlidir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. İkinci el ekran kartı alırken 'Mining' yapılıp yapılmadığı önemlidir çünkü madencilik işlemleri ekran kartlarını aşırı yükleyerek ömrünü kısaltabilir.",
+        "sure_sn": 5.51,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 26,
+        "kategori": "Senaryo",
+        "soru": "Laptop işlemcisi sökülüp masaüstü bilgisayara takılır mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Laptop işlemcileri genellikle masaüstü bilgisayarlarına takılmaz.",
+        "sure_sn": 5.52,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 27,
+        "kategori": "Senaryo",
+        "soru": "Bilgisayar açılırken anakarttan 'bip' sesleri gelmesi ne anlama gelir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Anakarttan gelen 'bip' sesleri, anakartın durumunu veya bir sorun olduğunu bildirmek için kullanılır ve genellikle bir sorun olmadığını gösterir, ancak bazı durumlarda belirli bir sayıda 'bip' sesi, RAM, GPU, CPU veya diğer bileşenlerle ilgili bir sorun olduğunu gösterebilir.",
+        "sure_sn": 6.17,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 28,
+        "kategori": "Senaryo",
+        "soru": "Server (Sunucu) RAM'i normal ev bilgisayarında çalışır mı?",
+        "model_cevabi": "Cevap bulunamadı (Döngü Limiti).",
+        "sure_sn": 28.44,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 29,
+        "kategori": "Senaryo",
+        "soru": "Windows 11 kurmak için TPM 2.0 şart mı?",
+        "model_cevabi": "RTX 4060'nin TDP değeri 115W ve önerilen PSU gücü 550W'dir.",
+        "sure_sn": 13.48,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 30,
+        "kategori": "Senaryo",
+        "soru": "Ekran kartım çok ısınıyor, yan kapağı açmak mantıklı mı?",
+        "model_cevabi": "Cevap bulunamadı (Döngü Limiti).",
+        "sure_sn": 27.2,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 31,
+        "kategori": "Eski Nesil",
+        "soru": "Nvidia GTX 1080 Ti ekran kartı günümüz oyunları için hala yeterli mi?",
+        "model_cevabi": "Cevap bulunamadı (Döngü Limiti).",
+        "sure_sn": 33.53,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 32,
+        "kategori": "Eski Nesil",
+        "soru": "Intel i7-4790K işlemcisi DDR4 RAM destekler mi?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Intel i7-4790K işlemcisi DDR4 RAM desteklemez, DDR3 RAM destekler.",
+        "sure_sn": 6.27,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 33,
+        "kategori": "Eski Nesil",
+        "soru": "AMD FX serisi işlemciler çok ısınıyor muydu?",
+        "model_cevabi": "Kaynak: Genel Bilgi. AMD FX serisi işlemciler, yüksek TDP değerlerine sahip oldukları için genellikle fazla ısınabiliyordu. Bu serideki işlemciler, özellikle yüksek performanslı modellerde, 125W ila 220W arasında değişen TDP değerlerine sahipti ve bu da onları soğutma açısından daha zorlayıcı hale getiriyordu.",
+        "sure_sn": 5.76,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 34,
+        "kategori": "Eski Nesil",
+        "soru": "AGP slotlu ekran kartımı yeni anakarta takabilir miyim?",
+        "model_cevabi": "Kaynak: Genel Bilgi. AGP slotlu ekran kartlarınızı yeni anakartlara takamazsınız çünkü modern anakartlar genellikle PCIe slotlarına sahiptir ve AGP slotlarını desteklemez.",
+        "sure_sn": 5.38,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 35,
+        "kategori": "Eski Nesil",
+        "soru": "IDE kablosu ile SATA kablosu aynı mıdır?",
+        "model_cevabi": "Kaynak: Genel Bilgi. IDE kablosu ile SATA kablosu aynı değildir. IDE kablosu, eski nesil depolama cihazlarını bağlamak için kullanılırken, SATA kablosu daha yeni ve daha hızlı depolama cihazlarını bağlamak için kullanılır.",
+        "sure_sn": 5.07,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 36,
+        "kategori": "Eski Nesil",
+        "soru": "Windows XP hala güvenli bir işletim sistemi mi?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Windows XP artık güvenli bir işletim sistemi değildir, çünkü güvenlik güncellemeleri ve destek almamaktadır.",
+        "sure_sn": 5.7,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 37,
+        "kategori": "Eski Nesil",
+        "soru": "Floppy disk sürücüsü yeni kasalara takılır mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Floppy disk sürücülerinin yeni kasalara takılması genellikle mümkün değildir.",
+        "sure_sn": 4.82,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 38,
+        "kategori": "Eski Nesil",
+        "soru": "SLI veya Crossfire yapmak 2025 yılında mantıklı mı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. 2025 yılında SLI veya Crossfire yapmak, genellikle önerilmez, çünkü modern sistemlerde ve oyunlarda bu teknolojilerin avantajları sınırlıdır.",
+        "sure_sn": 7.13,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 39,
+        "kategori": "Eski Nesil",
+        "soru": "Voodoo ekran kartları hala üretiliyor mu?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Voodoo ekran kartları artık üretilmiyor.",
+        "sure_sn": 4.5,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 40,
+        "kategori": "Eski Nesil",
+        "soru": "Tüplü (CRT) monitörlerin LCD'ye göre avantajı var mıydı?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Tüplü (CRT) monitörlerin LCD'ye göre bazı avantajları vardı, özellikle renk doğruluğu ve hareketli görüntülerde daha iyi performans gösteriyorlardı.",
+        "sure_sn": 6.01,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 41,
+        "kategori": "Alakasız",
+        "soru": "iPhone 15 Pro Max kamerasının diyafram açıklığı nedir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. iPhone 15 Pro Max'in ana kamerasının diyafram açıklığı f/1.78, telefoto kamerasının diyafram açıklığı f/2.8 ve geniş açılı kamerasının diyafram açıklığı f/2.4'tür.",
+        "sure_sn": 15.62,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 42,
+        "kategori": "Alakasız",
+        "soru": "PlayStation 5 Slim ile Xbox Series X arasındaki fark nedir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. PlayStation 5 Slim ve Xbox Series X arasındaki farklar, işlemci, grafik işlem birimi, bellek, depolama ve fiyat gibi özelliklerdir.",
+        "sure_sn": 6.32,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 43,
+        "kategori": "Alakasız",
+        "soru": "Samsung Galaxy S24 Ultra işlemcisi Snapdragon mu Exynos mu?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Samsung Galaxy S24 Ultra, farklı bölgelerde Qualcomm Snapdragon 8 Gen 2 veya Samsung Exynos 2400 işlemcisi ile satışa sunuluyor.",
+        "sure_sn": 5.55,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 44,
+        "kategori": "Alakasız",
+        "soru": "Tesla Model Y'nin menzili kaç kilometredir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Tesla Model Y Long Range versiyonunun menzili yaklaşık 505 km'dir.",
+        "sure_sn": 5.52,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 45,
+        "kategori": "Alakasız",
+        "soru": "Makarna en iyi kaç dakikada haşlanır?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Makarna genellikle 8-12 dakika arasında haşlanır, ancak bu süre paketinde belirtilen talimatlara göre değişebilir.",
+        "sure_sn": 5.17,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 46,
+        "kategori": "Alakasız",
+        "soru": "Dyson V15 süpürgenin emiş gücü kaç AW?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Dyson V15 süpürgenin emiş gücü 230 AW'dir.",
+        "sure_sn": 5.21,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 47,
+        "kategori": "Alakasız",
+        "soru": "Nintendo Switch OLED modelinin ekran boyutu nedir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Nintendo Switch OLED modelinin ekran boyutu 7 inçtir.",
+        "sure_sn": 5.29,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 48,
+        "kategori": "Alakasız",
+        "soru": "Türkiye'nin başkenti neresidir?",
+        "model_cevabi": "İşlem Başarısız: API Hatası: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kd5d8qsdecbaaa2bthynaqz0` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99613, Requested 492. Please try again in 1m30.72s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+        "sure_sn": 0.08,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 49,
+        "kategori": "Alakasız",
+        "soru": "Kahve makinesinin kireci nasıl temizlenir?",
+        "model_cevabi": "İşlem Başarısız: API Hatası: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kd5d8qsdecbaaa2bthynaqz0` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99612, Requested 497. Please try again in 1m34.176s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+        "sure_sn": 0.08,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 50,
+        "kategori": "Alakasız",
+        "soru": "Klima alırken BTU hesabı nasıl yapılır?",
+        "model_cevabi": "İşlem Başarısız: API Hatası: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kd5d8qsdecbaaa2bthynaqz0` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99611, Requested 496. Please try again in 1m32.448s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+        "sure_sn": 0.08,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    }
+    {
+        "id": 48,
+        "kategori": "Alakasız",
+        "soru": "Türkiye'nin başkenti neresidir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Türkiye'nin başkenti Ankara'dır.",
+        "sure_sn": 0.7,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 49,
+        "kategori": "Alakasız",
+        "soru": "Kahve makinesinin kireci nasıl temizlenir?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Kahve makinesinin kirecini temizlemek için 1:1 oranında su ve beyaz sirke karışımını makineye doldurup çalıştırmak veya özel kahve makinesi temizleyicileri kullanmak önerilir.",
+        "sure_sn": 1.31,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    },
+    {
+        "id": 50,
+        "kategori": "Alakasız",
+        "soru": "Klima alırken BTU hesabı nasıl yapılır?",
+        "model_cevabi": "Kaynak: Genel Bilgi. Klima alırken BTU hesabı için genellikle aşağıdaki formül kullanılır: BTU = Oda Hacmi (m³) x Isı Kazancı (W/m³). Isı kazancı, oda boyutu, pencere sayısı, duvar ve tavan izolasyonu gibi faktörler dikkate alınarak hesaplanır. Örneğin, bir oda için gereken BTU miktarı, oda boyutu, pencere sayısı, duvar ve tavan izolasyonu gibi faktörler dikkate alınarak hesaplanır. Bir oda için yaklaşık BTU hesabı şu şekilde yapılabilir: \n- Küçük odalar (10-20 m²) için 5.000-7.000 BTU\n- Orta odalar (20-30 m²) için 7.000-10.000 BTU\n- Büyük odalar (30-40 m²) için 10.000-14.000 BTU\nAncak bu değerler sadece bir tahmindir ve gerçek BTU ihtiyacı oda özelinde farklılık gösterebilir.",
+        "sure_sn": 4.13,
+        "model_adi": "Groq_Llama3.3_70B_Benchmark"
+    }
+]

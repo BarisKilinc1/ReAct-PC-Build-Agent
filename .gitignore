@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables (API KEYLER BURADA OLURSA GİTMESİN DİYE)
+.env
+.venv
+env/
+venv/
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db
