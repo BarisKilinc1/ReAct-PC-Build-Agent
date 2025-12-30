@@ -51,29 +51,33 @@ This decision is driven by three key factors:
 └── README.md                        # Project documentation
 
 How to Run This Project
-If you want to run this agent on your local machine or Colab, follow these steps:
+
+You can run this project either locally or on Google Colab by following the steps below.
 
 1. Clone the Repository
-git clone [https://github.com/BarisKilinc1/ReAct-PC-Build-Agent.git](https://github.com/your-username/ReAct-PC-Build-Agent.git)
-cd ReAct-PC-Build-Agent
+
+Clone the repository to your local machine or Colab environment and navigate into the project directory.
 
 2. Install Dependencies
-Make sure you have Python installed, then run:
-pip install -r requirements.txt
+
+Ensure that Python is installed, then install all required dependencies listed in requirements.txt.
 
 3. Set API Keys
-The project requires API keys for the models you intend to use.
 
-Open agent.py or the Notebook.
+This project requires API keys for the language models used:
 
-Set your keys in the environment or directly in the code:
+GROQ_API_KEY – required for running Llama-3.3 70B via Groq
 
-GROQ_API_KEY (for Llama-3.3)
+OPENAI_API_KEY – optional, used only for GPT-4o benchmark comparison
 
-OPENAI_API_KEY (for GPT-4o Benchmark comparison - Optional)
+Open the Jupyter Notebook (Pc_Build_Agent.ipynb) and set your API keys either:
+
+via environment variables, or
+
+directly inside the notebook where indicated.
 
 4. Run the Agent
-You can run the script directly or open the notebook:
-python agent.py
-# OR
-jupyter notebook Pc_Build_Agent.ipynb
+
+Open Pc_Build_Agent.ipynb in Jupyter Notebook or Google Colab and execute the cells sequentially.
+
+All agent logic, tool definitions, benchmarking, and test scenarios are fully contained within the notebook.
